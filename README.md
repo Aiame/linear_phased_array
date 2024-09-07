@@ -23,3 +23,6 @@ If you want to know the simulation result, check ultrasound folder. They provide
 If you want to know how i reconstruct the image, check imageforultra in ultrasound folder and draw_ultrasound folder. There are still a lot of space of improvement, though.
 
 # result
+![moving_result](result.gif)
+
+![beam_steering](beam_steering.gif)
