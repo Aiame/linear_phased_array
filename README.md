@@ -10,7 +10,9 @@ Phased array technique actually is a old-fashion, finding a lot of application i
 To get a better picture of the system, i highly suggest that you take a look at the following link, they provide many useful courses:
 
 <https://www.analog.com/en/resources/analog-dialogue/articles/phased-array-antenna-patterns-part1.html>
+
 <https://www.youtube.com/watch?v=9WxWun0E-PM&t=461s>
+
 <https://www.udemy.com/user/yiyaohuang/>
 
 # code description
