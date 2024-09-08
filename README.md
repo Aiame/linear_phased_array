@@ -1,7 +1,7 @@
 # linear_phased_array
 Welcome to the beamforming world!!
 
-This is the project that i did in junior semesters, and finally get the second place in the oral presentation as well as some great image of the object.
+This is the project that i did in junior semesters, and finally get the second place in the oral presentation as well as some great image of the object. The presentation file and the poster file are also uploaded.
 
 ## motivation
 Phased array technique actually is a old-fashion, finding a lot of application in military and detection of object in self-driving car. In my project we want to use the system to detection respiratory pattern to measure heart rate, which has a lot to do with diagnosing cardiovascular diseases. The system is especially well-suited for continuous monitor for its light and low-cost property. The reason that we need to continuously monitor vital sign is we prefer to avoid symptom becoming worse. And is the system could come in handy.  
